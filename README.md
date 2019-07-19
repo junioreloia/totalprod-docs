@@ -5,7 +5,7 @@ Esta é a função Cadastro
 
 <!--topicos  -->
 1. Financeiro
-    1. Dia a Dia
+    2. Dia a Dia
         1. Dashboard
         1. Movimentação
         1. Faturamento
@@ -17,7 +17,7 @@ Esta é a função Cadastro
         1. Retorno de Remessa
         1. Histórico de Movimentação
         1. Previsão Orçamentária
-    1. Cadastros
+    2. Cadastros
         1. Serviço
         1. Tipo de Serviço
         1. Minhas Empresas
@@ -28,7 +28,7 @@ Esta é a função Cadastro
         1. Departamento
         1. Funcionário
         1. Ramo de Atividade
-    1. Visões
+    2. Visões
         1. Fluxo de Caixa
         1. DRE
         1. Relatório
