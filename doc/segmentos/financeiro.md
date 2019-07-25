@@ -5,7 +5,7 @@
 **Dashboard**
 É a apresentação visual das informações mais importantes e necessárias para alcançar um ou mais objetivos do negócio, consolidadas e ajustadas em uma única tela para que a informação possa ser monitorada de forma ágil.
 
-![Dashboard](../prints/FINANCEIRO/DIA A DIA/Dashboard.png)
+![Dashboard](../prints/FINANCEIRO/DIA/Dashboard.png)
 
 **Movimentação**
 Vale destacar que a movimentação Financeira  e umas das telas mais acessadas do sistema podemos lançar pagamentos,recebimentos e outras tantas funções que fazem partes do nosso dia-a-dia.
