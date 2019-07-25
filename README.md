@@ -10,13 +10,13 @@ Esta é a função Cadastro
         1. Movimentação
         1. Faturamento
         1. Inadiplência
-        1. Conciliação  
+        1. Conciliação
         1. Contratos
         1. Aprovação Financeira
         1. Envio de Remessa
         1. Retorno de Remessa
         1. Histórico de Movimentação
-        1. Previsão Orçamentária
+        1. Previsão Orçamentárias
     2. Cadastros
         1. Serviço
         1. Tipo de Serviço
