@@ -33,7 +33,7 @@ Esta é a função Cadastro
         1. DRE
         1. Relatório
         1. Relatório Avançado
-2. Estoque     
+1. Estoque     
     1. Dia a Dia
         1. Dashboard
         1. Entrada de Produto
@@ -60,7 +60,7 @@ Esta é a função Cadastro
     1.  Visões
         1. Relatório
         1. Relatório Avançado
-3. Vendas
+1. Vendas
     1. Dia a Dia
         1. Dashboard
         1. Orçamento / Venda
@@ -73,7 +73,7 @@ Esta é a função Cadastro
         1. Transportadora        
     1. Visões
         1. Relatório
-4. CRM
+1. CRM
     1. Dia a Dia             
         1. Dashboard
         1. Oportunidades
@@ -94,7 +94,7 @@ Esta é a função Cadastro
     1. Visões  
         1. Relatório
         1. Relatório Avançado
-5. ServiceDesk        
+1. ServiceDesk        
     1. Dia a Dia
         1. Dashboard
         1. Tickts
@@ -107,7 +107,7 @@ Esta é a função Cadastro
     1. Visões
         1. Relatório
         1. Relatório Avançado
-6.  BPM
+1.  BPM
     1. Dia a Dia
         1. Dashboard
         1. Processos em Andamento                   
