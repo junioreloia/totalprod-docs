@@ -42,3 +42,60 @@ Aqui vc melhora apuração financeira gerando uma Previsão orçamentária infor
 os itens em questão são apresentados baseados num indece informando sobre o total de lançamento destas categorias no financeiro.
 
 ![previsaoorcamentaria](../prints/VIDEOS/previsaoorcamentaria.png)
+
+## Cadastro
+**Serviço**
+
+![cadastrodeservico](../prints/VIDEOS/cadastrodeservico.png)
+
+**Cadastro de Tipo de Serviço**
+
+**Minhas empresas**
+
+**Fornecedor**
+Aqui você cadastra todos seus fornecedores podendo ser pessoas fisica  ou juridicas insira informações necessárias e clica em salvar em visualizar lista ele te traz os cadastros ja inseridos no sistema aonde e possivel editar, excluir e bloqueiar ou desbloqueiar algum cadastro.
+
+![Cadastro](../prints/FINANCEIRO/Cadastros/Fornecedor.png)
+
+**Cliente**
+Aqui voce cadastra todo o plano das contas financeiras para controle das obrigações a pagar e a resceber da empresa, click em adicionar para criar uma nova categoria .
+
+![Cadastro](../prints/FINANCEIRO/Cadastros/Categoria Financeira.png)
+
+**Contas Bancárias**
+Aqui vc cadastra as contas financeiras de sua empresa pode parametrizar as contas e definir se esta é a conta padrão de sua empresa ou se permite pagamentos,rescebimentos ou tranferencias .
+
+![Cadastro](../prints/FINANCEIRO/Cadastros/Conta Bacaria.png)
+
+**Departamento**
+
+**Categoria Financeira**
+
+**Funcionário**
+Aqui voce cadastra todos os seus colaboradores para ter melhor controle dos gastos e facilitar seus pagamento, atenção não é possivel excluir um funcionário caso ele esteja vinculado a um pagamento.
+
+![Cadastro](../prints/FINANCEIRO/Cadastros/Departamento.png)
+
+**Ramo de Atividede**
+
+![Cadastro](../prints/FINANCEIRO/Cadastros/Ramo de Atividade.png)
+
+
+## Visões
+**Fluxo de Caixa**
+
+Em Fluxo de caixa você tem controle em suas receitas e despesas podendo visualizar por periodo como anual que traz todas as receitas e despesas geradas de cada mes durante todo ano ou mensal para ter um controle de cada dia dentro de um determinado mes ao lado vocẽ pode selecionar o ano base que deseja visualizar assim tambem como selecionar uma conta para visualizar seu fluxo .
+
+![Cadastro](../prints/FINANCEIRO/VISÕES/Fluxo de Caixa.png)
+
+**DRE**
+
+![Cadastro](../prints/FINANCEIRO/VISÕES/DRE.png)
+
+**Relatório**
+
+![Cadastro](../prints/FINANCEIRO/VISÕES/Relatorios.png)
+
+**Relatório Avançado**
+
+![Cadastro](../prints/FINANCEIRO/VISÕES/Relatórios Financeiro.png)
