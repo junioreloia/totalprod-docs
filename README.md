@@ -4,7 +4,7 @@
 Esta é a função Cadastro
 
 <!--topicos  -->
-1. [Financeira](doc/segmentos/financeiro.md)
+1. [Financeiro](doc/segmentos/financeiro.md)
     1. Dia a Dia
         1. Dashboard
         1. Movimentação
@@ -33,7 +33,7 @@ Esta é a função Cadastro
         1. DRE
         1. Relatório
         1. Relatório Avançado
-1. Estoque     
+1. [Estoque](doc/segmentos/Estoque.md)    
     1. Dia a Dia
         1. Dashboard
         1. Entrada de Produto
@@ -60,7 +60,7 @@ Esta é a função Cadastro
     1.  Visões
         1. Relatório
         1. Relatório Avançado
-1. Vendas
+1. [Vendas](doc/segmentos/Vendas.md)
     1. Dia a Dia
         1. Dashboard
         1. Orçamento / Venda
@@ -73,7 +73,7 @@ Esta é a função Cadastro
         1. Transportadora        
     1. Visões
         1. Relatório
-1. CRM
+1. [CRM](doc/segmentos/CRM.md)
     1. Dia a Dia             
         1. Dashboard
         1. Oportunidades
@@ -94,8 +94,8 @@ Esta é a função Cadastro
     1. Visões  
         1. Relatório
         1. Relatório Avançado
-1. ServiceDesk        
-    1. Dia a Dia
+1. [ServiceDesk](doc/segmentos/ServiceDesk.md)   
+    1. Dia a Dia          
         1. Dashboard
         1. Tickts
         1. Convidar Usuário
@@ -107,7 +107,7 @@ Esta é a função Cadastro
     1. Visões
         1. Relatório
         1. Relatório Avançado
-1.  BPM
+1. [BPM](doc/segmentos/BPM.md)
     1. Dia a Dia
         1. Dashboard
         1. Processos em Andamento                   
