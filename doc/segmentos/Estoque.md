@@ -46,4 +46,4 @@ Aqui você podera consultar todas as movimentações de estoque ocorrida na sua 
 
 **Consulta de Estoque**
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/.png)
+![Cadastro](../prints/ESTOQUE/DIA A DIA/consultadeestoque.png)
