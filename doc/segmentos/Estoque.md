@@ -44,4 +44,6 @@ Aqui podemos visualizar todos os pedidos realizados podemos realizar filtros par
 **Consulta de Movimentação**
 Aqui você podera consultar todas as movimentações de estoque ocorrida na sua empresa vamos começar exibindo as movimentações selecione um periodo que haja movimentações é possivel tambem realizar filtros para visualizar movimentações especificas ao localizar as movimentações podemos exportar os dados da pesquisa.
 
-**
+**Consulta de Estoque**
+
+![Cadastro](../prints/ESTOQUE/DIA A DIA/.png)
