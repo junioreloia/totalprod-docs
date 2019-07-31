@@ -4,7 +4,7 @@
 Esta é a função Cadastro
 
 <!--topicos  -->
-1. Financeiro
+1. [Financeira](doc/segmentos/financeiro.md)
     1. Dia a Dia
         1. Dashboard
         1. Movimentação
