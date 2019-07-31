@@ -60,12 +60,12 @@ Aqui você cadastra todos seus fornecedores podendo ser pessoas fisica  ou jurid
 **Cliente**
 Aqui voce cadastra todo o plano das contas financeiras para controle das obrigações a pagar e a resceber da empresa, click em adicionar para criar uma nova categoria .
 
-![Cadastro](../prints/FINANCEIRO/Cadastros/Categoria Financeira.png)
+![Cadastro](../prints/FINANCEIRO/Cadastros/CategoriaFinanceira.png)
 
 **Contas Bancárias**
 Aqui vc cadastra as contas financeiras de sua empresa pode parametrizar as contas e definir se esta é a conta padrão de sua empresa ou se permite pagamentos,rescebimentos ou tranferencias .
 
-![Cadastro](../prints/FINANCEIRO/Cadastros/Conta Bacaria.png)
+![Cadastro](../prints/FINANCEIRO/Cadastros/ContaBacaria.png)
 
 **Departamento**
 
@@ -78,7 +78,7 @@ Aqui voce cadastra todos os seus colaboradores para ter melhor controle dos gast
 
 **Ramo de Atividede**
 
-![Cadastro](../prints/FINANCEIRO/Cadastros/Ramo de Atividade.png)
+![Cadastro](../prints/FINANCEIRO/Cadastros/RamodeAtividade.png)
 
 
 ## Visões
@@ -86,7 +86,7 @@ Aqui voce cadastra todos os seus colaboradores para ter melhor controle dos gast
 
 Em Fluxo de caixa você tem controle em suas receitas e despesas podendo visualizar por periodo como anual que traz todas as receitas e despesas geradas de cada mes durante todo ano ou mensal para ter um controle de cada dia dentro de um determinado mes ao lado vocẽ pode selecionar o ano base que deseja visualizar assim tambem como selecionar uma conta para visualizar seu fluxo .
 
-![Cadastro](../prints/FINANCEIRO/VISÕES/Fluxo de Caixa.png)
+![Cadastro](../prints/FINANCEIRO/VISÕES/FluxodeCaixa.png)
 
 **DRE**
 
@@ -98,4 +98,4 @@ Em Fluxo de caixa você tem controle em suas receitas e despesas podendo visuali
 
 **Relatório Avançado**
 
-![Cadastro](../prints/FINANCEIRO/VISÕES/Relatórios Financeiro.png)
+![Cadastro](../prints/FINANCEIRO/VISÕES/RelatóriosFinanceiro.png)

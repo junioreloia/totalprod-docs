@@ -94,7 +94,7 @@ Esta é a função Cadastro
     1. Visões  
         1. Relatório
         1. Relatório Avançado
-1. [ServiceDesk](doc/segmentos/ServiceDesk.md)   
+1. [ServiceDesk](doc/segmentos/ServiceDesk.md)
     1. Dia a Dia          
         1. Dashboard
         1. Tickts
