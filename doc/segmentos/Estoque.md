@@ -17,7 +17,7 @@ entrada de suas notas de serviço manual ou automatica para realizar processo de
 ![Cadastro](../prints/ESTOQUE/DIA A DIA/entradadeprodutoestoque.png)
 
 **Saida de Estoque**
-Aqui vocẽ podera realizar baixas no estoque apartir de pedidos interno criados para registrar as solicitações de materiais dos departamento de sua empresa assim como realizar baixas manuais de materiais do estoque sem precisar de um pedidos interno para isso primeiramente é exibido total de pedidos interno que estao pendentes de baixa logo abaixo são listados todos os pedidos internos pendentes podemos realizar a baixa manual para baixar diretamente do estoque ou rapidamente selecionalos apartir da opção saída para proceguir com a baixa do material e a seguir são listados os produtos que compõem o pedido interno.
+Aqui vocẽ podera realizar baixas no estoque apartir de pedidos interno criados para registrar as solicitações de materiais dos departamento de sua empresa assim como realizar baixas manuais de materiais do estoque sem precisar de um pedidos interno para isso primeiramente é exibido total de pedidos interno que estao pendentes de baixa logo abaixo são listados todos os pedidos internos pendentes podemos realizar a baixa manual para baixar diretamente do estoque ou rapidamente selecioná los apartir da opção saída para proceguir com a baixa do material e a seguir são listados os produtos que compõem o pedido interno.
 
 ![Cadastro](../prints/ESTOQUE/DIA A DIA/saidadeestoque.png)
 
@@ -43,3 +43,5 @@ Aqui podemos visualizar todos os pedidos realizados podemos realizar filtros par
 
 **Consulta de Movimentação**
 Aqui você podera consultar todas as movimentações de estoque ocorrida na sua empresa vamos começar exibindo as movimentações selecione um periodo que haja movimentações é possivel tambem realizar filtros para visualizar movimentações especificas ao localizar as movimentações podemos exportar os dados da pesquisa.
+
+**
