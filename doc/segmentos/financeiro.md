@@ -1,4 +1,4 @@
-[Voltar ao Inicio](../)
+[Voltar ao Inicio](../../)
 
  ###  Financeiro
  O departamento financeiro da empresa é encarregado de administrar os recursos da organização para que ela possa garantir lucros a curto e longo prazo é controlando a tesouraria, os investimentos e os riscos.
