@@ -85,7 +85,6 @@ Aqui voce cadastra todos os seus colaboradores para ter melhor controle dos gast
 
 ## Visões
 **Fluxo de Caixa**
-
 Em Fluxo de caixa você tem controle em suas receitas e despesas podendo visualizar por periodo como anual que traz todas as receitas e despesas geradas de cada mes durante todo ano ou mensal para ter um controle de cada dia dentro de um determinado mes ao lado vocẽ pode selecionar o ano base que deseja visualizar assim tambem como selecionar uma conta para visualizar seu fluxo .
 
 ![Cadastro](../prints/FINANCEIRO/VISÕES/FluxodeCaixa.png)
