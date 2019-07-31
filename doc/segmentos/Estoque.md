@@ -38,3 +38,8 @@ Para empresas com mais de um estoque temos a funcionalidade de Transferência de
 Aqui podemos visualizar todos os pedidos realizados podemos realizar filtros para uma rapida localização dos pedidos além de poder tambem criar um novo processo você será redirecionado a página onde é possivel realizar um novo processo de comprar clicando em editar podemos visualizar as informações do pedido e tambem imprimi-lo.
 
 ![Cadastro](../prints/ESTOQUE/DIA A DIA/pedidodecompra.png)
+
+**Processo de Compra**
+
+**Consulta de Movimentação**
+Aqui você podera consultar todas as movimentações de estoque ocorrida na sua empresa vamos começar exibindo as movimentações selecione um periodo que haja movimentações é possivel tambem realizar filtros para visualizar movimentações especificas ao localizar as movimentações podemos exportar os dados da pesquisa.
