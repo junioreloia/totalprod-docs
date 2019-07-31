@@ -1,6 +1,6 @@
 [Voltar ao Inicio](../../)
 
- ### Estoque
+### Estoque
  É uma área muito importante pois é através dele que será capaz de prever o quanto que será necessário comprar no próximo pedido ao fornecedor.
  O controle de estoque de uma empresa grande ou pequena, serve para a empresa avaliar a entrada e saída de mercadorias e auxilia uma companhia a reduzir custos e administrar a cadeia de produção e distribuição com mais eficiência.
 
