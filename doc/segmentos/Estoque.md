@@ -53,4 +53,7 @@ Aqui você podera consultar todas as movimentações de estoque ocorrida na sua 
 ![Cadastro](../prints/ESTOQUE/DIA A DIA/Kardex.png)
 
 **Convidar Usuários**
-Aqui você convida Usuários para ter acesso ao BPM integrado os departamentos e aumentando a produtividade da sua empresa,com esta função você permite que outras pessoas possão abrir gerenciar e aprovar processos através da intranet seja desktop ou seu smartphone
+Aqui você convida Usuários para ter acesso ao BPM integrado os departamentos e aumentando a produtividade da sua empresa,com esta função você permite que outras pessoas possão abrir gerenciar e aprovar processos através da intranet seja desktop ou seu smartphone.
+
+## Cadastro
+Aqui você cadastra todos os produtos que irão compor o seu estoque definindo as categorias para facilitar á sua localização edite as configurações do produto você pode definir se o produto aceita ou não entrada sem a necessidade de um pedido de compra e tambem definir ou limites para que o sistema avise quando um produto chegar a um limite critico para que seja feita a sua reposição indique uma localização para o produto é possivel tambem adicionar uma imagem a este produto facilitando assim sua identificação click em salvar para finalizar o cadastro.
