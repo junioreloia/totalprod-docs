@@ -90,3 +90,5 @@ consumíveis que ira agrupar materiais como alimentos,materiais de limpeza e hig
 Aqui podemos relacionar os produto de uma mesma familia para facil localização no sistema como por exemplo grupo de material de escritório que relaciona itens como lapis,caneta,caderno entre outros visualizar lista o sistema te traz os cadastro ja inseridos no sistema aonde é possivel editar,excluir,bloqueiar ou desbloqueiar algum cadastro.
 
 ![Cadastro](../prints/ESTOQUE/CADASTROS/grupodeproduto.png)
+
+**Família de Produto**
