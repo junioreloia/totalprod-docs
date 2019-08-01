@@ -59,7 +59,7 @@ Aqui você convida Usuários para ter acesso ao BPM integrado os departamentos e
 **Produto**
 Aqui você cadastra todos os produtos que irão compor o seu estoque definindo as categorias para facilitar á sua localização edite as configurações do produto você pode definir se o produto aceita ou não entrada sem a necessidade de um pedido de compra e tambem definir ou limites para que o sistema avise quando um produto chegar a um limite critico para que seja feita a sua reposição indique uma localização para o produto é possivel tambem adicionar uma imagem a este produto facilitando assim sua identificação click em salvar para finalizar o cadastro.
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/cadastrodoproduto.png)
+![Cadastro](../prints/ESTOQUE/CADASTROS/cadastrodoproduto.png)
 
 **Estoque Satélite**
 Aqui é possivel criar de armazenagem para seus produtos através do cadastro estoque satélite apos informar o nome do estoque e os demais dados obrigatorios é possivel relacionar um ou mais setores de sua empresa para controlar consumo interno através do pedido online em locais de armazenamentos é possivel determinar a localização de dentro do estoque como em qual prateleira e corredor o mesmo se encontra.
