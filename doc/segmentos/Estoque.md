@@ -53,4 +53,4 @@ Aqui você podera consultar todas as movimentações de estoque ocorrida na sua 
 ![Cadastro](../prints/ESTOQUE/DIA A DIA/Kardex.png)
 
 **Convidar Usuários**
-Aqui você convida Usuários para ter acesso ao BPM integrado os departamentos e aumentando produtividade da sua empresa,com esta função você permite que outras pessoas possão abrir gerenciar e aprovar processos através da intranet seja desktop ou seu smartphone
+Aqui você convida Usuários para ter acesso ao BPM integrado os departamentos e aumentando a produtividade da sua empresa,com esta função você permite que outras pessoas possão abrir gerenciar e aprovar processos através da intranet seja desktop ou seu smartphone
