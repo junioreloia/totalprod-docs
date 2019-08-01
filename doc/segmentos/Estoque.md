@@ -79,3 +79,14 @@ Aqui vocẽ tem a informação do regime tributário de sua e suas aliquotas vig
 Aqui você cadastra todos os seus fornecedores podendo ser pesssoa fisica ou juridicas insira as informações necessárias e click em salvar em visualizar lista o sistema te traz os cadastros ja inseridos no sistema aonde é possivel editar,excluir,bloqueiar ou desbloqueiar algum cadastro.
 
 ![Cadastro](../prints/ESTOQUE/CADASTROS/cadastrodefornecedor.png)
+
+**Classe de Produto**
+Aqui podemos cadastra classes para os produto utilizados pela empresa em suas operações como por exemplo classes de produtos chamados
+consumíveis que ira agrupar materiais como alimentos,materiais de limpeza e higiene pessoal etc preencha os dados e click em salvar em visualizar lista o sistema te traz os cadastro ja inseridos no sistema aonde é possivel editar,excluir,bloqueiar ou desbloqueiar algum cadastro.
+
+![Cadastro](../prints/ESTOQUE/CADASTROS/classedeproduto.png)
+
+**Grupo de Produto**
+Aqui podemos relacionar os produto de uma mesma familia para facil localização no sistema como por exemplo grupo de material de escritório que relaciona itens como lapis,caneta,caderno entre outros visualizar lista o sistema te traz os cadastro ja inseridos no sistema aonde é possivel editar,excluir,bloqueiar ou desbloqueiar algum cadastro.
+
+![Cadastro](../prints/ESTOQUE/CADASTROS/grupodeproduto.png)
