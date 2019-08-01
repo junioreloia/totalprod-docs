@@ -77,5 +77,3 @@ Aqui vocẽ tem a informação do regime tributário de sua e suas aliquotas vig
 
 **Fornecedor**
 Aqui você cadastra todos os seus fornecedores podendo ser pesssoa fisica ou juridicas insira as informações necessárias e click em salvar em visualizar lista o sistema te traz os cadastros ja inseridos no sistema aonde é possivel editar,excluir,bloqueiar ou desbloqueiar algum cadastro.
-
-![Cadastro](../prints/ESTOQUE/CADASTROS/cadastrodefornecedor.png)
