@@ -14,17 +14,17 @@ Aqui você tem a gestão completa de seu estoque é possivel visualizar os pedid
 Em entrada de produto é possivel dar
 entrada de suas notas de serviço manual ou automatica para realizar processo de forma manual insira os dados basicos selecione os produtos informe os valores e seus respectivos impostos e vencimentos é possivel inserir um anexo e um comentario sobre este lançamento podemos apartir desse lançamento criar um rascunho para finalizar o preenchimento posteriormente podemos tambem importar o arquivo XML da nota enviada pelo fornecedor para preenchimento automático de suas notas.
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/entradadeprodutoestoque.png)
+![Cadastro](../prints/ESTOQUE/DIA/entradadeprodutoestoque.png)
 
 **Saida de Estoque**
 Aqui vocẽ podera realizar baixas no estoque apartir de pedidos interno criados para registrar as solicitações de materiais dos departamento de sua empresa assim como realizar baixas manuais de materiais do estoque sem precisar de um pedidos interno para isso primeiramente é exibido total de pedidos interno que estao pendentes de baixa logo abaixo são listados todos os pedidos internos pendentes podemos realizar a baixa manual para baixar diretamente do estoque ou rapidamente selecioná los apartir da opção saída para proceguir com a baixa do material e a seguir são listados os produtos que compõem o pedido interno.
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/saidadeestoque.png)
+![Cadastro](../prints/ESTOQUE/DIA/saidadeestoque.png)
 
 **Ajuste de Estoque**
 Em Ajuste de Estoque você podera corrigir o saldos dos produtos de sua empresa de acordo com contagem fisicas realizada nos locais onde estão armazenadas informe a empresa o estoque e os produto caso o produto seja controlado por lote informe se o ajuste será realizado em um lote novo ou em um ja existente insira a quantidade correta do produto informe o preço unitário e uma observação caso necessário, click em salvar é possivel cancelar este ajuste clicando em visualizar e cancelar ajuste.
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/ajustedeestoque.png)
+![Cadastro](../prints/ESTOQUE/DIA/ajustedeestoque.png)
 
 **Transferência de Estoque**
 Para empresas com mais de um estoque temos a funcionalidade de Transferência de estoque em tempo real ja é possivel acompanhar o seu saldo atual do iten em relação estoque de origem e criar uma listagem de itens á transferir ao salvar o processo os estoques ja são automaticamente atualizados podendo consultar los caso necessário.
@@ -32,12 +32,12 @@ Para empresas com mais de um estoque temos a funcionalidade de Transferência de
 **Pedido Interno**
 É possivel incluir solicitações de materiais pasa uso nos setores de sua empresa selecione o departamento e click em começar é possivel alterar a empresa e o departamento insira uma observação indique os produtos e a quantidade que deseja solicitar e click em adicionar apos inserir os produtos click em salvar.
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/pedidointerno.png)
+![Cadastro](../prints/ESTOQUE/DIA/pedidointerno.png)
 
 **Pedido de Compra**
 Aqui podemos visualizar todos os pedidos realizados podemos realizar filtros para uma rapida localização dos pedidos além de poder tambem criar um novo processo você será redirecionado a página onde é possivel realizar um novo processo de comprar clicando em editar podemos visualizar as informações do pedido e tambem imprimi-lo.
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/pedidodecompra.png)
+![Cadastro](../prints/ESTOQUE/DIA/pedidodecompra.png)
 
 **Processo de Compra**
 
@@ -46,7 +46,7 @@ Aqui você podera consultar todas as movimentações de estoque ocorrida na sua 
 
 **Consulta de Estoque**
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/consultadeestoque.png)
+![Cadastro](../prints/ESTOQUE/DIA/consultadeestoque.png)
 
 **Kardex**
 
