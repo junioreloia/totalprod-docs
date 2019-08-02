@@ -1,4 +1,4 @@
-[Voltar ao Inicio](../../)
+[Voltar ao Inicio](../)
 
 ### Estoque
 É uma área muito importante pois é através dele que será capaz de prever o quanto que será necessário comprar no próximo pedido ao fornecedor.

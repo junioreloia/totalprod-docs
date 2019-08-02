@@ -1,10 +1,10 @@
 ### TotalProd
-<!-- ![print](doc/prints/FINANCEIRO/Cadastros/Serviço.png) -->
+<!-- ![print](prints/FINANCEIRO/Cadastros/Serviço.png) -->
 
 Esta é a função Cadastro
 
 <!--topicos  -->
-1. [Financeiro](doc/segmentos/financeiro.md)
+1. [Financeiro](segmentos/financeiro.md)
     1. Dia a Dia
         1. Dashboard
         1. Movimentação
@@ -33,7 +33,7 @@ Esta é a função Cadastro
         1. DRE
         1. Relatório
         1. Relatório Avançado
-1. [Estoque](doc/segmentos/Estoque.md)    
+1. [Estoque](segmentos/Estoque.md)    
     1. Dia a Dia
         1. Dashboard
         1. Entrada de Produto
@@ -60,7 +60,7 @@ Esta é a função Cadastro
     1.  Visões
         1. Relatório
         1. Relatório Avançado
-1. [Vendas](doc/segmentos/Vendas.md)
+1. [Vendas](segmentos/Vendas.md)
     1. Dia a Dia
         1. Dashboard
         1. Orçamento / Venda
@@ -73,7 +73,7 @@ Esta é a função Cadastro
         1. Transportadora        
     1. Visões
         1. Relatório
-1. [CRM](doc/segmentos/CRM.md)
+1. [CRM](segmentos/CRM.md)
     1. Dia a Dia             
         1. Dashboard
         1. Oportunidades
@@ -94,7 +94,7 @@ Esta é a função Cadastro
     1. Visões  
         1. Relatório
         1. Relatório Avançado
-1. [ServiceDesk](doc/segmentos/ServiceDesk.md)
+1. [ServiceDesk](segmentos/ServiceDesk.md)
     1. Dia a Dia          
         1. Dashboard
         1. Tickts
@@ -107,7 +107,7 @@ Esta é a função Cadastro
     1. Visões
         1. Relatório
         1. Relatório Avançado
-1. [BPM](doc/segmentos/BPM.md)
+1. [BPM](segmentos/BPM.md)
     1. Dia a Dia
         1. Dashboard
         1. Processos em Andamento                   
