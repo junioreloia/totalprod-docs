@@ -8,7 +8,7 @@ O controle de estoque de uma empresa grande ou pequena, serve para a empresa ava
 **Dashboard**
 Aqui você tem a gestão completa de seu estoque é possivel visualizar os pedidos que aguarda liberação produtos vencidados ou em situaçao critica de estoque podemos conferir graficos como movimentação de estoque e tambem checar seus pedido de comprar temos atalhos para dar entrada nas notas fiscais de seus fornecedores realizar entrada dessas mesmas notas de forma automatizada através da importação de seu XML realizar a baixa de estoque e abrir processos de comprar para cotação de produtos no menu estoque é possivel constar suas movimentações realizar tranferencias entre estoque e convidar usuarios para poder realizar pedidos interno tambem podemos cadastra produtos fornecedores,departamento entre outros .  
 
-![Cadastro](../prints/ESTOQUE/DIA A DIA/diadia estoque.png)
+![Cadastro](../prints/ESTOQUE/DIA/diadiaestoque.png)
 
 **Entrada de Produto**
 Em entrada de produto é possivel dar
