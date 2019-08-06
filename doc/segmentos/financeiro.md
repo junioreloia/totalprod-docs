@@ -100,3 +100,7 @@ Em Fluxo de caixa você tem controle em suas receitas e despesas podendo visuali
 **Relatório Avançado**
 
 ![Cadastro](../prints/FINANCEIRO/VISÕES/RelatóriosFinanceiro.png)
+
+
+
+*TESTE*
