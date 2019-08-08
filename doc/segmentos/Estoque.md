@@ -100,3 +100,6 @@ Aqui podemos cadastrar todas as famílias de produto utilizadas no sistema como 
 ## Visões
 **Relatório de Estoque**
 Entrada/Saída/Curva ABC
+
+**Relatório Avançado**
+Relatório Padrão
