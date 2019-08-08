@@ -13,14 +13,14 @@
 
  **Nota Fiscal de Serviço**
 
-## Cadastros
+## Cadastro
  **Produto** Aqui você cadastra todos os produtos que irão compor o seu estoque definindo as categorias para facilitar a sua localização, edite as configurações do produto você pode definir se o produto aceita ou não entrada sem a necessidade de um pedido de compra e tambem definir os limites para que o sistema te avise quando um produto chegar a um limite critico para que seja feita a sua reposição indique uma localização para o produto é possivel tambem adicionar uma imagem ao este produto facilitando assim sua identificação clique em salvar para finalizar o cadastro.
 
  **Cliente**
 
  **Vendedor**
 
- **Transportadoras**
+ **Transportadora**
 
  ## Visões
- 
+  **Relatório**
