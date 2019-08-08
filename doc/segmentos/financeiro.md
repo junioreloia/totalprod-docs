@@ -40,8 +40,8 @@ Aqui você tem acesso a todo Histórico de Movimentações financeiras podendo l
 ![Histórico de Movimentação](../prints/VIDEOS/histmoviment.png)
 
 **Previsão Orçamentária**
-Aqui vc melhora apuração financeira gerando uma Previsão orçamentária informando o ano base e definindo indece de resultados das categorias de suas despesas, já e possível acompanhar os resultados de sua empresa onde os itens que exceden metas são destacados para sua tomada de decisão
-os itens em questão são apresentados baseados num indece informando sobre o total de lançamento destas categorias no financeiro.
+Aqui você melhora apuração financeira gerando uma Previsão orçamentária informando o ano base e definindo índice de resultados das categorias de suas despesas, já e possível acompanhar os resultados de sua empresa onde os itens que excedem metas são destacados para sua tomada de decisão
+os itens em questão são apresentados baseados num índice informando sobre o total de lançamento destas categorias no financeiro.
 
 ![previsaoorcamentaria](../prints/VIDEOS/previsaoorcamentaria.png)
 
