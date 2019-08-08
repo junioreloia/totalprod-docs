@@ -102,4 +102,4 @@ Aqui podemos cadastrar todas as famílias de produto utilizadas no sistema como 
 Entrada/Saída/Curva ABC
 
 **Relatório Avançado**
-Relatório Padrão
+Relatório Padrão.
