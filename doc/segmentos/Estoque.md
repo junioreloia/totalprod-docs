@@ -22,7 +22,7 @@ Aqui vocẽ poderá realizar baixas no estoque a partir de pedidos interno criad
 ![Cadastro](../prints/ESTOQUE/DIA/saidadeestoque.png)
 
 **Ajuste de Estoque**
-Em Ajuste de Estoque você poderá corrigir o saldos dos produtos de sua empresa de acordo com contagem físicas realizada nos locais onde estão armazenadas informe a empresa o estoque e os produto caso o produto seja controlado por lote informe se o ajuste será realizado em um lote novo ou em um ja existente insira a quantidade correta do produto informe o preço unitário e uma observação caso necessário, clique em salvar é possível cancelar este ajuste clicando em visualizar e cancelar ajuste.
+Em Ajuste de Estoque você poderá corrigir o saldos dos produtos de sua empresa de acordo com contagem físicas realizada nos locais onde estão armazenadas informe a empresa o estoque e os produto caso o produto seja controlado por lote informe se o ajuste será realizado em um lote novo ou em um já existente insira a quantidade correta do produto informe o preço unitário e uma observação caso necessário, clique em salvar é possível cancelar este ajuste clicando em visualizar e cancelar ajuste.
 
 ![Cadastro](../prints/ESTOQUE/DIA/ajustedeestoque.png)
 
@@ -99,6 +99,6 @@ Aqui podemos cadastrar todas as famílias de produto utilizadas no sistema como 
 
 ## Visões
 **Relatório de Estoque**
-Entrada/Saida/Curva ABC
+Entrada/Saída/Curva ABC
 
 ![Cadastro](../prints/ESTOQUE/CADASTROS/relatorioagendamento.png)
