@@ -25,22 +25,22 @@ Uma conciliação consiste em se fazer a comparação física entre o saldo das 
 ![Conciliação](../prints/VIDEOS/CONCILIACAO.png)
 
 **Contratos**
-Aqui podemos visualizar seus Contratos realizando pagamentos de parcelas em aberto , atualizando fluxo de caixa e saldo bancárias de suas contas primeiro selecionamos um Cliente ou fornecedor para visualizar seus Contratos ou podemos visualizar todos de uma unica vez.
+Aqui podemos visualizar seus Contratos realizando pagamentos de parcelas em aberto , atualizando fluxo de caixa e saldo bancárias de suas contas primeiro selecionamos um Cliente ou fornecedor para visualizar seus Contratos ou podemos visualizar todos de uma única vez.
 
 **Aprovação Financeira**
-Aqui voce podera rapidamente emitir boletos e gerar notas fiscais de seus clientes começando apartir da visualização de todas as movimentações pendentes podemos filtrar por um cliente especifico.
+Aqui você poderá rapidamente emitir boletos e gerar notas fiscais de seus clientes começando a partir da visualização de todas as movimentações pendentes podemos filtrar por um cliente especifico.
 
 **Envio Remessa**
 
 **Retorno Remessa**
 
 **Histórico de Movimentação**
-Aqui vc tem acesso a todo Histórico de Movimentações financeiras podendo localizar uma movimentação que tenha sido expluida por engano, voce pode realizar filtros por usuarios ou tipo de ações, tambem e possivel realizar uma pesquisa por data e durante um determinado periodo pode tambem pesquisar pela descrição da movimentação e possivel exportar essas informações em formato XLS localizando a movimentação é possivel saber quais foram as ultimas ações realizada nela.
+Aqui você tem acesso a todo Histórico de Movimentações financeiras podendo localizar uma movimentação que tenha sido expluída por engano, você pode realizar filtros por usuários ou tipo de ações, tambem e possivel realizar uma pesquisa por data e durante um determinado periodo pode tambem pesquisar pela descrição da movimentação e possível exportar essas informações em formato XLS localizando a movimentação é possível saber quais foram as ultimas ações realizada nela.
 
 ![Histórico de Movimentação](../prints/VIDEOS/histmoviment.png)
 
 **Previsão Orçamentária**
-Aqui vc melhora apuração financeira gerando uma Previsão orçamentária informando o ano base e definindo indece de resultados das categorias de suas despesas, ja e possivel acompanhar os resultados de sua empresa onde os itens que exceden metas são destacados para sua tomada de descisão
+Aqui vc melhora apuração financeira gerando uma Previsão orçamentária informando o ano base e definindo indece de resultados das categorias de suas despesas, já e possível acompanhar os resultados de sua empresa onde os itens que exceden metas são destacados para sua tomada de decisão
 os itens em questão são apresentados baseados num indece informando sobre o total de lançamento destas categorias no financeiro.
 
 ![previsaoorcamentaria](../prints/VIDEOS/previsaoorcamentaria.png)
@@ -55,17 +55,17 @@ os itens em questão são apresentados baseados num indece informando sobre o to
 **Minhas empresas**
 
 **Fornecedor**
-Aqui você cadastra todos seus fornecedores podendo ser pessoas fisica  ou juridicas insira informações necessárias e clica em salvar em visualizar lista ele te traz os cadastros ja inseridos no sistema aonde e possivel editar, excluir e bloqueiar ou desbloqueiar algum cadastro.
+Aqui você cadastra todos seus fornecedores podendo ser pessoas física  ou jurídicas insira informações necessárias e clica em salvar em visualizar lista ele te traz os cadastros já inseridos no sistema aonde e possível editar, excluir e bloquear ou desbloquear algum cadastro.
 
 ![Cadastro](../prints/FINANCEIRO/Cadastros/Fornecedor.png)
 
 **Cliente**
-Aqui voce cadastra todo o plano das contas financeiras para controle das obrigações a pagar e a resceber da empresa, click em adicionar para criar uma nova categoria .
+Aqui você cadastra todo o plano das contas financeiras para controle das obrigações a pagar e a resceber da empresa, click em adicionar para criar uma nova categoria .
 
 ![Cadastro](../prints/FINANCEIRO/Cadastros/CategoriaFinanceira.png)
 
 **Contas Bancárias**
-Aqui vc cadastra as contas financeiras de sua empresa pode parametrizar as contas e definir se esta é a conta padrão de sua empresa ou se permite pagamentos,rescebimentos ou tranferencias .
+Aqui vc cadastra as contas financeiras de sua empresa pode parametrizar as contas e definir se esta é a conta padrão de sua empresa ou se permite pagamentos,recebimentos ou transferências .
 
 ![Cadastro](../prints/FINANCEIRO/Cadastros/ContaBacaria.png)
 
@@ -74,7 +74,7 @@ Aqui vc cadastra as contas financeiras de sua empresa pode parametrizar as conta
 **Categoria Financeira**
 
 **Funcionário**
-Aqui voce cadastra todos os seus colaboradores para ter melhor controle dos gastos e facilitar seus pagamento, atenção não é possivel excluir um funcionário caso ele esteja vinculado a um pagamento.
+Aqui você cadastra todos os seus colaboradores para ter melhor controle dos gastos e facilitar seus pagamento, atenção não é possível excluir um funcionário caso ele esteja vinculado a um pagamento.
 
 ![Cadastro](../prints/FINANCEIRO/Cadastros/Departamento.png)
 
@@ -85,7 +85,7 @@ Aqui voce cadastra todos os seus colaboradores para ter melhor controle dos gast
 
 ## Visões
 **Fluxo de Caixa**
-Em Fluxo de caixa você tem controle em suas receitas e despesas podendo visualizar por periodo como anual que traz todas as receitas e despesas geradas de cada mes durante todo ano ou mensal para ter um controle de cada dia dentro de um determinado mes ao lado vocẽ pode selecionar o ano base que deseja visualizar assim tambem como selecionar uma conta para visualizar seu fluxo .
+Em Fluxo de caixa você tem controle em suas receitas e despesas podendo visualizar por período como anual que traz todas as receitas e despesas geradas de cada mês durante todo ano ou mensal para ter um controle de cada dia dentro de um determinado mês ao lado vocẽ pode selecionar o ano base que deseja visualizar assim também como selecionar uma conta para visualizar seu fluxo .
 
 ![Cadastro](../prints/FINANCEIRO/VISÕES/FluxodeCaixa.png)
 

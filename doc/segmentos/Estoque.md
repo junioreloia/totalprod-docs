@@ -1,4 +1,4 @@
-[Voltar ao Inicio](../README.md)
+[Voltar ao Inicio](../README.md)   
 
 ### Estoque
 É uma área muito importante pois é através dele que será capaz de prever o quanto que será necessário comprar no próximo pedido ao fornecedor.
@@ -95,3 +95,14 @@ Aqui podemos relacionar os produto de uma mesma familia para facil localização
 Aqui podemos cadastrar todas as familias de produto utilizadas no sistema como por exemplo uma familia de produto de limpeza que ira agrupar os produtos que forem realizado a ela em visualizar lista o sistema te traz os cadastros ja inseridos no sistema aonde é possivel editar,excluir,bloqueiar ou desbloqueiar algum cadastro.
 
 ![Cadastro](../prints/ESTOQUE/CADASTROS/familiadeproduto.png)
+
+
+## Visões 
+**Relatório de Estoque**
+Entrada/Saida/Curva ABC
+
+![Cadastro](../prints/ESTOQUE/CADASTROS/relatorioagendamento.png)
+
+
+
+

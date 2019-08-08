@@ -6,3 +6,9 @@
 ## Dia a Dia
  **Dashboard**
  É a apresentação visual das informações mais importantes e necessárias para alcançar um ou mais objetivos do negócio, consolidadas e ajustadas em uma única tela para que a informação possa ser monitorada de forma ágil.
+
+
+
+
+
+
