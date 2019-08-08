@@ -25,10 +25,10 @@ Uma conciliação consiste em se fazer a comparação física entre o saldo das 
 ![Conciliação](../prints/VIDEOS/CONCILIACAO.png)
 
 **Contratos**
-Aqui podemos visualizar seus Contratos realizando pagamentos de parcelas em aberto , atualizando fluxo de caixa e saldo bancárias de suas contas primeiro selecionamos um Cliente ou fornecedor para visualizar seus Contratos ou podemos visualizar todos de uma unica vez.
+Aqui podemos visualizar seus Contratos realizando pagamentos de parcelas em aberto , atualizando fluxo de caixa e saldo bancárias de suas contas primeiro selecionamos um Cliente ou fornecedor para visualizar seus Contratos ou podemos visualizar todos de uma única vez.
 
 **Aprovação Financeira**
-Aqui voce podera rapidamente emitir boletos e gerar notas fiscais de seus clientes começando apartir da visualização de todas as movimentações pendentes podemos filtrar por um cliente especifico.
+Aqui você poderá rapidamente emitir boletos e gerar notas fiscais de seus clientes começando a partir da visualização de todas as movimentações pendentes podemos filtrar por um cliente especifico.
 
 **Envio Remessa**
 
