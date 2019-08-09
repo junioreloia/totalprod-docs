@@ -3,7 +3,7 @@
  ### CRM
  O CRM (Customer Relationship Management), ou Gestão de Relacionamento com o Cliente, é um sistema online que facilita o contato entre os profissionais da sua empresa e os seus clientes.
 
-## Dia a Dia
+## Dia    
 **Dashboard**
 
 É a apresentação visual das informações mais importantes e necessárias para alcançar um ou mais objetivos do negócio, consolidadas e ajustadas em uma única tela para que a informação possa ser monitorada de forma ágil.
@@ -27,4 +27,36 @@ Visualize suas perdas por periodos específicos podendo visualizar seus detalhes
 ## Cadastro
 **Concorrente**
 
-Aqui  
+Aqui te ajuda a identificar seu principais concorrentes ao perder uma venda é possível informar ao sistema qual foi o concorrente que a conquistou assim você poderá realizar relatórios contendo métricas de quais concorrentes mais impacta-o em seus negócios.
+
+**Contato Comercial**
+
+![Cadastro](../prints/CRM/CONTATOIMAGEM.png)
+
+
+**Ramo de Atividade**
+
+**lead**
+
+![Cadastro](../prints/CRM/CADASTRO/CADASTROLED.png)
+
+
+**Motivos**
+
+**Funil de Vendas**
+
+**Origem Oportunidade**
+
+**Vendedor**
+
+Aqui no sistema permite a você registrar todos vendedores do seu time para que cada um dele possa criar e gerenciar oportunidades de vendas em CRM assim você pode monitorar o progresso de cada integrante acompanhando seus resultados além de traçar metas mensais para cada integrante da equipe.
+
+**Proposta**
+
+**Template de e-mail**
+
+## Visões    
+**Relatório**
+
+### ServiceDesk
+**Dashboard**
