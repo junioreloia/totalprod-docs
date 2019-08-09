@@ -30,14 +30,13 @@ Visualize suas perdas por periodos específicos podendo visualizar seus detalhes
 Aqui te ajuda a identificar seu principais concorrentes ao perder uma venda é possível informar ao sistema qual foi o concorrente que a conquistou assim você poderá realizar relatórios contendo métricas de quais concorrentes mais impacta-o em seus negócios.
 
 **Contato Comercial**
+![Cadastro](../prints/CRM/CADASTRO/CONTATOIMAGEM.png)
 
-![Cadastro](../prints/CRM/CONTATOIMAGEM.png)
 
 
 **Ramo de Atividade**
 
 **lead**
-
 ![Cadastro](../prints/CRM/CADASTRO/CADASTROLED.png)
 
 
@@ -48,6 +47,7 @@ Aqui te ajuda a identificar seu principais concorrentes ao perder uma venda é p
 **Origem Oportunidade**
 
 **Vendedor**
+![Cadastro](../prints/CRM/CADASTRO/cadastrovendedor.png)
 
 Aqui no sistema permite a você registrar todos vendedores do seu time para que cada um dele possa criar e gerenciar oportunidades de vendas em CRM assim você pode monitorar o progresso de cada integrante acompanhando seus resultados além de traçar metas mensais para cada integrante da equipe.
 
