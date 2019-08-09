@@ -54,11 +54,9 @@ Aqui te ajuda a identificar seu principais concorrentes ao perder uma venda é p
 Aqui no sistema permite a você registrar todos vendedores do seu time para que cada um dele possa criar e gerenciar oportunidades de vendas em CRM assim você pode monitorar o progresso de cada integrante acompanhando seus resultados além de traçar metas mensais para cada integrante da equipe.
 
 **Proposta**
+![Cadastro](../prints/CRM/CADASTRO/proposta.png)
 
 **Template de e-mail**
 
 ## Visões    
 **Relatório**
-
-### ServiceDesk
-**Dashboard**
