@@ -16,10 +16,15 @@ Traga agilidade ao seu fluxo de vendas com a opção de oportunidades do sistema
 
 Aqui você pode definir atividades para suas oportunidades como definir reuniões, ligações, conferencias online entre outros assim você tem total controle das suas atividades para cada um de seus leds clique em criar ou no ícone de agendamento adicione o tipo de atividades informe os dados e indique um horário para realização desta ação .
 
+**Conquistas**
+
+Aproveite a integração do sistema entre os modulos CRM E FINANCEIRO aqui você tem as visualizações de todas as suas conquistas que já foram aprovada ou ainda estão pendentes de aprovação pelo financeiro.   
+
 **Perdas**
 
 Visualize suas perdas por periodos específicos podendo visualizar seus detalhes como valor, motivo e para qual concorrente você perdeu essa oportunidades.
 
 ## Cadastro
 **Concorrente**
-Aqui 
+
+Aqui  
