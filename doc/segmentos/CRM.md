@@ -43,6 +43,8 @@ Aqui te ajuda a identificar seu principais concorrentes ao perder uma venda é p
 **Motivos**
 
 **Funil de Vendas**
+![Cadastro](../prints/CRM/CADASTRO/funildevendas.png)
+
 
 **Origem Oportunidade**
 
