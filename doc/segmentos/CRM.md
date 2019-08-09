@@ -22,3 +22,4 @@ Visualize suas perdas por periodos específicos podendo visualizar seus detalhes
 
 ## Cadastro
 **Concorrente**
+Aqui
