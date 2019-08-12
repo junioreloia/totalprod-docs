@@ -9,12 +9,14 @@
 
  É a apresentação visual das informações mais importantes e necessárias para alcançar um ou mais objetivos do negócio, consolidadas e ajustadas em uma única tela para que a informação possa ser monitorada de forma ágil.
 
- **Orçamento / Vendas**
+ **OrçamentoVendas**
+ ![OrçamentoVendas](../prints/VENDAS/Cadastros/vendedorcomprador.png)
+
 
  **Nota Fiscal de Produto**
 
  Aqui poderá emitir nova Nota sendo elas de remessa, retorno e devolução exportar em XML
- 
+
 
  **Nota Fiscal de Serviço**
 
