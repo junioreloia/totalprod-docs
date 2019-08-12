@@ -27,10 +27,14 @@
 Aqui você cadastra todos os produtos que irão compor o seu estoque definindo as categorias para facilitar a sua localização, edite as configurações do produto você pode definir se o produto aceita ou não entrada sem a necessidade de um pedido de compra e tambem definir os limites para que o sistema te avise quando um produto chegar a um limite critico para que seja feita a sua reposição indique uma localização para o produto é possivel tambem adicionar uma imagem ao este produto facilitando assim sua identificação clique em salvar para finalizar o cadastro.
 
  **Cliente**
+ ![OrçamentoVendas](../prints/VENDAS/Cadastros/clientes.png)
 
  **Vendedor**
+ Aqui no sistema permite a você registrar todos os vendedores do seu time para que cada um deles possa criar e gerenciar oportunidades de vendas no modulo CRM assim você pode monitorar o progresso de cada integrante acompanhando os seus resultados além de traçar metas mensais para cada integrante da equipe.     
 
  **Transportadora**
+ ![OrçamentoVendas](../prints/VENDAS/Cadastros/transportadoras.png)
+
 
  ## Visões
   **Relatório**
