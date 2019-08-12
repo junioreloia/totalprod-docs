@@ -30,7 +30,7 @@ Aqui você cadastra todos os produtos que irão compor o seu estoque definindo a
  ![OrçamentoVendas](../prints/VENDAS/Cadastros/clientes.png)
 
  **Vendedor**
- Aqui no sistema permite a você registrar todos os vendedores do seu time para que cada um deles possa criar e gerenciar oportunidades de vendas no modulo CRM assim você pode monitorar o progresso de cada integrante acompanhando os seus resultados além de traçar metas mensais para cada integrante da equipe.     
+ Aqui no sistema permite a você registrar todos os vendedores do seu time para que cada um deles possa criar e gerenciar oportunidades de vendas no modulo CRM assim você pode monitorar o progresso de cada integrante acompanhando os seus resultados além de traçar metas mensais para cada integrante da equipe.      
 
  **Transportadora**
  ![OrçamentoVendas](../prints/VENDAS/Cadastros/transportadoras.png)
