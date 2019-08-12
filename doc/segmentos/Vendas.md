@@ -14,6 +14,7 @@
 
 
  **Nota Fiscal de Produto**
+ ![OrçamentoVendas](../prints/VENDAS/Cadastros/emissaodenota.png)
 
  Aqui poderá emitir nova Nota sendo elas de remessa, retorno e devolução exportar em XML
 
